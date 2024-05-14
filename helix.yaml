@@ -6,4 +6,4 @@ assistants:
     - name: Coindesk API
       description: Gets the current Bitcoin price in USD, GPB and EUR.
       url: https://api.coindesk.com/v1/bpi/currentprice.json
-      schema: ./api/coindesk.yaml
+      schema: ./openapi/coindesk.yaml
